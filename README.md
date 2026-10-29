@@ -98,3 +98,26 @@ It covers data analysis, statistical investigation, visualization, data quality 
 
 Explore the interactive dashboard by downloading the Power BI file from the `PowerBI` folder.
 
+
+## 📈 Key Business Insights
+
+The Retail Sales Analysis project explores sales performance across regions, products, and months using SQL, Excel, Python, and Power BI.
+
+* Regional Performance: Central recorded the highest regional revenue, contributing approximately 21.62% of total revenue.
+* Product Performance: Laptop Stand was identified as a leading product by revenue in the analysis.
+* Monthly Trends: June recorded the highest monthly revenue in the analyzed dataset.
+* Interactive Analysis: Power BI slicers allow users to explore performance by region and product.
+
+## 🛠️ Tools & Technologies
+
+* SQL: Data querying and regional revenue analysis using PostgreSQL.
+* Excel: Spreadsheet analysis and reporting.
+* Python: Data analysis using pandas, NumPy, Matplotlib, and Seaborn.
+* Power BI: Interactive dashboard, KPIs, and visualizations.
+
+## 🎯 Project Objective
+
+To transform retail sales data into actionable business insights by analyzing revenue, regional performance, product performance, and monthly sales trends.
+
+
+
