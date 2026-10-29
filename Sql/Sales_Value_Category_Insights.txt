@@ -1,0 +1,20 @@
+Finding
+
+ 1 — High-value transactions generate the most revenue.
+
+       • Only 44 transactions, or 18.33% of all records, generated 59,494.35.
+       • That's approximately 41.77% of total revenue.
+
+ 2 — Low-value transactions are the most common.
+
+       • 119 transactions, or 49.58% of all records, are classified as Low Value.
+       • However, they contribute only about 18.98% of total revenue.
+
+ 3 — Medium-value transactions are important too.
+
+       • 77 transactions generated 55,912.99.
+       • That's approximately 39.26% of total revenue.
+
+Business recommendation-
+
+   The business could investigate ways to increase the value of low-value purchases, such as offering product bundles or relevant add-ons. It should also examine what drives high-value purchases.

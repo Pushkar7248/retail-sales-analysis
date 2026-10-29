@@ -1,0 +1,28 @@
+MONTHLY SALES BUSINESS INSIGHTS
+
+Project: Retail Sales Analysis
+Period: January–June 2026
+
+Objective
+Analyse monthly sales revenue, record counts, and average sale value to identify strong and weak months.
+
+Monthly Results
+January 2026: 40 records; revenue 24,177.45; average sale 604.44
+February 2026: 29 records; revenue 13,788.89; average sale 475.48
+March 2026: 39 records; revenue 19,390.28; average sale 497.19
+April 2026: 43 records; revenue 23,471.38; average sale 545.85
+May 2026: 39 records; revenue 24,885.97; average sale 638.10
+June 2026: 50 records; revenue 36,723.17; average sale 734.46
+
+Key Findings
+1. June 2026 had the highest monthly revenue: 36,723.17.
+2. February 2026 had the lowest monthly revenue: 13,788.89.
+3. June also had the highest number of records (50) and the highest average sale value (734.46).
+4. Revenue increased by approximately 47.6% from May to June.
+5. Total revenue across the six months was 142,437.14.
+
+Business Recommendations
+- Investigate what contributed to June's strong results, including product mix, order quantities, customer demand, and sales activity.
+- Review February's lower revenue to determine whether it was caused by fewer transactions, smaller sale values, or other factors.
+- Compare the same months across future periods before treating these results as a recurring seasonal pattern.
+

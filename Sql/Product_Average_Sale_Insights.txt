@@ -1,0 +1,9 @@
+Key findings
+
+   • Highest average sale: Laptop Stand — 779.75.
+   • Lowest average sale: Standing Desk — 407.91.
+   • Highest total revenue: Laptop Stand — 18,713.90.
+   • Second-highest total revenue: Webcam 1080p — 16,809.84.
+   • Interesting finding: Desk Lamp ranks second in average sale value but only seventh in total revenue in this ranking, because fewer records were recorded for it.
+   • Standing Desk: Has the lowest average sale and lowest total revenue.
+

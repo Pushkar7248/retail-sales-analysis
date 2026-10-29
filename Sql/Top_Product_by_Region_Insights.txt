@@ -1,0 +1,21 @@
+TOP PRODUCT BY REGION — BUSINESS INSIGHTS
+
+Objective: Identify the product generating the highest total revenue within each sales region.
+
+Key Findings:
+
+    1. Central: Wireless Mouse ranked first, generating 5,075.19 in regional revenue.
+    2. East: External SSD 1TB ranked first, generating 4,935.38 in regional revenue.
+    3. North: Cable Organizer ranked first, generating 6,234.51 in regional revenue.
+    4. South: Mechanical Keyboard ranked first, generating 5,465.60 in regional revenue.
+    5. West: Laptop Stand ranked first, generating 8,215.42 in regional revenue.
+
+Business Recommendations:
+
+      • Review regional product demand and stock availability to understand the performance of each leading product.
+      • Investigate why Laptop Stand generated comparatively high revenue in the West.
+      • Compare regional product performance over additional periods before changing inventory or marketing strategies.
+      • Consider product costs and profit margins before making profitability-based decisions.
+
+Conclusion:
+The highest-revenue product differs across the five regions. Laptop Stand generated the highest revenue among the five regional leaders, with 8,215.42 in the West.

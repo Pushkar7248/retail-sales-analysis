@@ -1,0 +1,22 @@
+SALESPERSON REVENUE CONTRIBUTION — BUSINESS INSIGHTS
+
+Objective:
+Calculate the percentage of total company revenue contributed by each salesperson.
+
+Key Findings:
+
+    1. Priya Herrera ranked first, generating 28,195.51 in revenue and contributing 19.80% of total company revenue.
+    2. Sofia Kowalski generated 24,885.19, contributing 17.47% of total revenue.
+    3. Tomás Tanaka generated 24,112.18, contributing 16.93% of total revenue.
+    4. Omar Haddad generated 22,989.34, contributing 16.14% of total revenue.
+    5. Elena Cohen generated 21,737.26, contributing 15.26% of total revenue.
+    6. Chen Bennett generated 20,517.66, contributing 14.40% of total revenue.
+
+Business Recommendations:
+
+         • Study the sales approaches and product mix associated with higher revenue contributions.
+         • Review revenue contribution alongside sales volume, targets, and average sale value for a more complete performance assessment.
+         • Avoid evaluating salesperson effectiveness using revenue contribution alone, because customer assignments and other factors may differ.
+
+Conclusion:
+Priya Herrera was the largest revenue contributor among the six salespeople, accounting for 19.80% of total revenue. All six salespeople contributed to the company's total revenue of 142,437.14.

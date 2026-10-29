@@ -1,0 +1,29 @@
+REGIONAL SALES BUSINESS INSIGHTS
+
+Project: Retail Sales Analysis
+Period: January–June 2026
+
+Objective
+Compare sales records, total revenue, and average sale value across the five regions.
+
+Correct Regional Results (sorted by total revenue)
+1. Central — 50 records; revenue 30,787.94; average sale 615.76; revenue contribution approximately 21.62%
+2. South — 50 records; revenue 30,083.51; average sale 601.67; revenue contribution approximately 21.12%
+3. North — 52 records; revenue 28,925.00; average sale 556.25; revenue contribution approximately 20.31%
+4. East — 42 records; revenue 26,485.82; average sale 630.62; revenue contribution approximately 18.59%
+5. West — 46 records; revenue 26,154.87; average sale 568.58; revenue contribution approximately 18.36%
+
+Total: 240 records; total revenue 142,437.14.
+
+Key Findings
+1. Central generated the highest total revenue (30,787.94), contributing approximately 21.62% of total revenue.
+2. South ranked second in revenue at 30,083.51.
+3. North had the most records (52) but ranked third by total revenue.
+4. East had the fewest records (42) but a comparatively high average sale value.
+5. West generated the lowest total revenue (26,154.87).
+
+Business Recommendations
+- Review the sales practices, product mix, and customer demand associated with Central's leading revenue.
+- Investigate East's average sale value alongside its lower record count.
+- Examine West's results to understand whether lower revenue reflects fewer records, lower average sale values, or product mix.
+- Compare results over additional periods before treating these differences as long-term regional trends.

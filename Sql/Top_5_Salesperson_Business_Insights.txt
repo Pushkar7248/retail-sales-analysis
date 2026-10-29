@@ -1,0 +1,28 @@
+TOP 5 SALESPERSON PERFORMANCE — BUSINESS INSIGHTS
+
+Project: Retail Sales Analysis
+Period: January–June 2026
+
+Objective: Identify the five salespeople with the highest total sales revenue.
+
+Results (sorted by total revenue):
+1. Priya Herrera — 45 records; revenue 28,195.51; average sale 626.57
+2. Sofia Kowalski — 46 records; revenue 24,885.19; average sale 540.98
+3. Tomás Tanaka — 38 records; revenue 24,112.18; average sale 634.53
+4. Omar Haddad — 35 records; revenue 22,989.34; average sale 656.84
+5. Elena Cohen — 40 records; revenue 21,737.26; average sale 543.43
+
+Key Findings
+1. Priya Herrera ranked first among these five salespeople by total revenue, with 28,195.51 across 45 records.
+2. Sofia Kowalski had the most records (46) among the five listed.
+3. Omar Haddad had the highest average sale value among these five salespeople (656.84).
+4. Tomás Tanaka's average sale value was 634.53, while his total revenue was 24,112.18.
+5. The results compare revenue and average sale values, but do not establish profitability or overall salesperson effectiveness.
+
+Business Recommendations
+- Compare sales results with targets, working hours, customer assignments, and product mix before evaluating performance.
+- Investigate patterns in high-value sales and consider whether effective practices can be shared across the team.
+- Use profit or margin data, if available, for a more complete performance analysis.
+
+Important Note
+These are the top five salespeople by total revenue, not necessarily the only five salespeople in the dataset. Revenue is not the same as profit.

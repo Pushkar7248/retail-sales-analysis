@@ -1,0 +1,34 @@
+PRODUCT PERFORMANCE BUSINESS INSIGHTS
+
+Project: Retail Sales Analysis
+Period: January–June 2026
+
+Objective
+Compare product units sold, total sales revenue, and average sale value.
+
+Product Results (sorted by total revenue)
+1. Laptop Stand — 133 units; revenue 18,713.90; average sale 779.75
+2. Webcam 1080p — 122 units; revenue 16,809.84; average sale 600.35
+3. Cable Organizer — 113 units; revenue 16,142.37; average sale 672.60
+4. Wireless Mouse — 102 units; revenue 14,290.77; average sale 649.58
+5. External SSD 1TB — 97 units; revenue 12,103.90; average sale 605.20
+6. Noise-Cancelling Headphones — 79 units; revenue 10,674.32; average sale 593.02
+7. Ergonomic Chair — 98 units; revenue 10,624.93; average sale 442.71
+8. Desk Lamp — 71 units; revenue 10,445.80; average sale 696.39
+9. Mechanical Keyboard — 75 units; revenue 9,513.33; average sale 634.22
+10. 27-inch Monitor — 76 units; revenue 8,509.33; average sale 472.74
+11. USB-C Hub — 77 units; revenue 8,082.10; average sale 505.13
+12. Standing Desk — 65 units; revenue 6,526.55; average sale 407.91
+
+Key Findings
+1. Laptop Stand generated the highest total revenue (18,713.90) and had the highest reported unit sales (133).
+2. Webcam 1080p ranked second by total revenue at 16,809.84.
+3. Standing Desk had the lowest total revenue (6,526.55), lowest units sold (65), and lowest average sale value (407.91) among the listed products.
+4. Desk Lamp had a relatively high average sale value (696.39) despite 71 units sold.
+5. Revenue and unit sales alone do not show which products are most profitable.
+
+Business Recommendations
+- Review stock availability and demand patterns for Laptop Stand and Webcam 1080p.
+- Investigate the lower sales of Standing Desk before making inventory or promotional decisions.
+- Consider product costs, discounts, and margins before recommending products based on profitability.
+
