@@ -120,4 +120,13 @@ The Retail Sales Analysis project explores sales performance across regions, pro
 To transform retail sales data into actionable business insights by analyzing revenue, regional performance, product performance, and monthly sales trends.
 
 
+## 📂 Project Files
+
+* [View Dataset](data/)
+* [View Excel Analysis](Excel/)
+* [View Power BI Dashboard](PowerBI/)
+* [View Python Code](python/)
+* [View SQL Queries](Sql/)
+
+
 
