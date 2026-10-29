@@ -84,3 +84,17 @@ These findings can support decisions about sales strategy, product performance, 
 This project demonstrates practical data analysis skills using Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI and Excel.
 
 It covers data analysis, statistical investigation, visualization, data quality checks, reporting, and business interpretation.
+
+
+## 📊 Power BI Dashboard Preview
+
+### Full Dashboard
+
+![Retail Sales Power BI Dashboard](PowerBI/01_Full_Dashboard.png)
+
+### Filtered Dashboard
+
+![Filtered Retail Sales Dashboard](PowerBI/02_Filtered_Dashboard.png)
+
+Explore the interactive dashboard by downloading the Power BI file from the `PowerBI` folder.
+
