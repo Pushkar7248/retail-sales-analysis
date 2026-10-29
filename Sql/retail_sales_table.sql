@@ -1,6 +1,6 @@
 --Create Sales Table
 CREATE TABLE sales (
-order_id VARCHAR(20),
+order_id VARCHAR(20) PRIMARY KEY,
 order_date DATE,
 product VARCHAR(100),
 quantity INTEGER,
