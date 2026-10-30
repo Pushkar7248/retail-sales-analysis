@@ -86,7 +86,7 @@ This project demonstrates practical data analysis skills using Python, Pandas, N
 It covers data analysis, statistical investigation, visualization, data quality checks, reporting, and business interpretation.
 
 
-## 📊 Power BI Dashboard Preview
+## Power BI Dashboard Preview
 
 ### Full Dashboard
 
@@ -99,7 +99,7 @@ It covers data analysis, statistical investigation, visualization, data quality 
 Explore the interactive dashboard by downloading the Power BI file from the `PowerBI` folder.
 
 
-## 📈 Key Business Insights
+## Key Business Insights
 
 The Retail Sales Analysis project explores sales performance across regions, products, and months using SQL, Excel, Python, and Power BI.
 
@@ -108,19 +108,19 @@ The Retail Sales Analysis project explores sales performance across regions, pro
 * Monthly Trends: June recorded the highest monthly revenue in the analyzed dataset.
 * Interactive Analysis: Power BI slicers allow users to explore performance by region and product.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * SQL: Data querying and regional revenue analysis using PostgreSQL.
 * Excel: Spreadsheet analysis and reporting.
 * Python: Data analysis using pandas, NumPy, Matplotlib, and Seaborn.
 * Power BI: Interactive dashboard, KPIs, and visualizations.
 
-## 🎯 Project Objective
+## Project Objective
 
 To transform retail sales data into actionable business insights by analyzing revenue, regional performance, product performance, and monthly sales trends.
 
 
-## 📂 Project Files
+## Project Files
 
 * [View Dataset](data/)
 * [View Excel Analysis](Excel/)
